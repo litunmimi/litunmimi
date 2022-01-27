@@ -1,4 +1,7 @@
 ### Hi there 👋
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=litunmimi)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alpondith&show_icons=true&count_private=true)![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=litunmimi)  
 
 <!--
 **litunmimi/litunmimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
